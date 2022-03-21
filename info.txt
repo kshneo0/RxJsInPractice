@@ -42,6 +42,9 @@
 11. Building Components with RxJs - Imperative Design 
 
 -----------------------------
+
+12. Building Components with RxJs - Reactive Design
+
 -----------------------------
 -----------------------------
 -----------------------------
@@ -57,7 +60,7 @@
 
 
 
-12. Building Components with RxJs - Reactive Design 
+ 
 13. Sharing HTTP Responses with the shareReplay Operator 
 14. RxJs Higher-Order Mapping Operators PDF 
 15. Observable Concatenation - In-Depth Explanation 
