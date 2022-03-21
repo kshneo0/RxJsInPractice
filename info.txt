@@ -18,6 +18,9 @@
 6. What is RxJs? What Problem Does it Solve? 
 
 -----------------------------
+
+7. What is an RxJs Observable? A Simple Explanation
+
 -----------------------------
 -----------------------------
 -----------------------------
@@ -31,7 +34,7 @@
 
 
 
-7. What is an RxJs Observable? A Simple Explanation 
+
 8. 3 Core RxJs Concepts - Errors, Completion and Subscriptions 
 9. Learn How Observables Work Under the Hood, Build Your Own HTTP Observable 
 섹션 2: Essential RxJs Operators + Reactive Design 
