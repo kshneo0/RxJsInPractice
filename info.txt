@@ -1,0 +1,74 @@
+섹션 1: Introduction to RxJs 
+
+- https://github.com/angular-university
+
+-----------------------------
+
+1. RxJs In Practice Course Helicopter View 
+2. IMPORTANT - Recommended Software Versions 
+3. The Typescript Jumpstart Ebook 
+4. Environment Setup - Get the Lessons Code Up and Running 
+
+-----------------------------
+
+5. Understanding RxJs - What are Streams? 
+
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+
+
+
+
+
+6. What is RxJs? What Problem Does it Solve? 
+7. What is an RxJs Observable? A Simple Explanation 
+8. 3 Core RxJs Concepts - Errors, Completion and Subscriptions 
+9. Learn How Observables Work Under the Hood, Build Your Own HTTP Observable 
+섹션 2: Essential RxJs Operators + Reactive Design 
+10. What are RxJs Operators? Learn the Map Operator 
+11. Building Components with RxJs - Imperative Design 
+12. Building Components with RxJs - Reactive Design 
+13. Sharing HTTP Responses with the shareReplay Operator 
+14. RxJs Higher-Order Mapping Operators PDF 
+15. Observable Concatenation - In-Depth Explanation 
+16. Form Draft Pre-Save Example and the RxJs Filter Operator 
+17. The RxJs concatMap Operator - In-Depth Explanation and Practical Example 
+18. Understanding the merge Observable combination Strategy 
+19. The RxJs mergeMap Operator - In-Depth Explanation 
+20. The RxJs exhaustMap Operator - In-Depth Explanation 
+21. Unsubscription In Detail - Implementing a Cancellable HTTP Observable 
+22. Setting Up the Course Component 
+23. Building a Search Typeahead - debounceTime and distinctUntilChanged Operators 
+24. Finishing the Search Typeahead - The switchMap Operator 
+섹션 3: RxJs Error Handling 
+25. RxJs Error Handling - PDF Guide 
+26. RxJs Error Handling - The Catch and Replace Error Handling Strategy 
+27. The Catch and Rethrow RxJs Error Handling Strategy and the finalize Operator 
+28. The Retry RxJs Error Handling Strategy.screenflow 
+29. The startWith RxJs Operator - Simplifying the Course Component 
+30. RxJs Throttling vs Debouncing - Understand the Differences 
+섹션 4: Building a RxJs Custom Operator 
+31. Implementing a Custom RxJs Operator - the Debug Operator 
+32. The RxJs Debug Operator - Implementation Conclusion 
+33. The RxJs forkJoin Operator - In-Depth Explanation and Practical Example 
+섹션 5: RxJs Subjects and the Store Pattern 
+34. Subjects and Stores - New Section Kickoff 
+35. What are RxJs Subjects? A Simple Explanation 
+36. BehaviorSubject In Detail - When to Use it and Why? 
+37. AsyncSubject and ReplaySubject - Learn the Differences 
+38. Store Service Design - What Subject to Use? 
+39. The Store Pattern - Loading Initial Data, Selector Methods, Consuming Data 
+40. BehaviorSubject Store - Example of a Data Modification Operation 
+41. Refactoring the Course Component for Using the Store 
+42. Forcing the Completion of Long Running Observables - First and Take Operators 
+43. The withLatestFrom RxJs Operator - Detailed Explanation 
+섹션 6: Conclusion 
+44. Bonus Lecture 
+45. RxJs In Practice Course Conclusion and Key Takeaways 
