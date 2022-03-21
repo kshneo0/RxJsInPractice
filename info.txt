@@ -54,6 +54,9 @@
 14. RxJs Higher-Order Mapping Operators PDF 
 
 -----------------------------
+
+15. Observable Concatenation - In-Depth Explanation 
+
 -----------------------------
 -----------------------------
 -----------------------------
@@ -63,7 +66,7 @@
 -----------------------------
 -----------------------------
 
-15. Observable Concatenation - In-Depth Explanation 
+
 16. Form Draft Pre-Save Example and the RxJs Filter Operator 
 17. The RxJs concatMap Operator - In-Depth Explanation and Practical Example 
 18. Understanding the merge Observable combination Strategy 

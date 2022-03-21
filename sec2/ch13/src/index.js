@@ -1,6 +1,6 @@
 import { Observable } from "rxjs";
 import { createHttpObservable } from "./util";
-import { map, tap, shareReplay } from "rxjs/operators";
+import { map, tap, share } from "rxjs/operators";
 
 const http$ = createHttpObservable(
   "https://jsonplaceholder.typicode.com/albums?userId=1"
@@ -9,7 +9,7 @@ const http$ = createHttpObservable(
 const albums$ = http$.pipe(
   tap(console.log("HTTP request executed")),
   map((res) => Object.values(res)),
-  shareReplay() //사용시 확인
+  share() //사용시 확인
 );
 
 const odd$ = http$.pipe(
