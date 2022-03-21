@@ -30,8 +30,7 @@ interval$.subscribe((val) => console.log("stream 2 => " + val));
 const interval$ = timer(3000, 1000);
 
 const sub = interval$.subscribe((val) => console.log("stream 1 => " + val));
-setTimeout(()=> sub.unsubscribe(), 5000);
-
+setTimeout(() => sub.unsubscribe(), 5000);
 
 const click$ = fromEvent(document, "click");
 
