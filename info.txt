@@ -84,22 +84,31 @@
 21. Unsubscription In Detail - Implementing a Cancellable HTTP Observable 
 
 -----------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
-
-
-
-
-
-
 
 22. Setting Up the Course Component 
+
+-----------------------------
+
 23. Building a Search Typeahead - debounceTime and distinctUntilChanged Operators 
+
+-----------------------------
+
 24. Finishing the Search Typeahead - The switchMap Operator 
+
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+
+
+
+
+
+
+
+
+
+
 섹션 3: RxJs Error Handling 
 25. RxJs Error Handling - PDF Guide 
 26. RxJs Error Handling - The Catch and Replace Error Handling Strategy 
