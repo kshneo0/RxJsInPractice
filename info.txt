@@ -62,17 +62,27 @@
 16. Form Draft Pre-Save Example and the RxJs Filter Operator 
 
 -----------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
-
-
 
 17. The RxJs concatMap Operator - In-Depth Explanation and Practical Example 
+
+-----------------------------
+
 18. Understanding the merge Observable combination Strategy 
+
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+
+
+
+
 19. The RxJs mergeMap Operator - In-Depth Explanation 
 20. The RxJs exhaustMap Operator - In-Depth Explanation 
 21. Unsubscription In Detail - Implementing a Cancellable HTTP Observable 
