@@ -64,28 +64,39 @@
 -----------------------------
 
 17. The RxJs concatMap Operator - In-Depth Explanation and Practical Example 
-
+- 차례대로 실행
 -----------------------------
 
 18. Understanding the merge Observable combination Strategy 
 
 -----------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
------------------------------
-
-
-
 
 19. The RxJs mergeMap Operator - In-Depth Explanation 
+- 동시에 여러건을 실행
+
+-----------------------------
+
 20. The RxJs exhaustMap Operator - In-Depth Explanation 
+- 실행 중인 건이 있으면 새로 들어오는건 무시
+
+-----------------------------
+
 21. Unsubscription In Detail - Implementing a Cancellable HTTP Observable 
+
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+
+
+
+
+
+
+
 22. Setting Up the Course Component 
 23. Building a Search Typeahead - debounceTime and distinctUntilChanged Operators 
 24. Finishing the Search Typeahead - The switchMap Operator 
